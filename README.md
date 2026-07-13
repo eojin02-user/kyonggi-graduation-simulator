@@ -1,1 +1,1 @@
-# kyonggi-graduation-simulator
+# KGS Beta 0.1

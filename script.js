@@ -1,0 +1,1 @@
+console.log('Kyonggi Graduation Simulator Beta 0.1');
